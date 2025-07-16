@@ -10,7 +10,6 @@
     "LICENSE"
   ],
   "scripts": {
-    "setup": "node scripts/setup.js",
     "build": "tsc",
     "dev": "tsc --watch",
     "test": "jest",
@@ -31,12 +30,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sandeep-testsigma/newrelic-publisher.git"
+    "url": "git+https://github.com/TestsigmaInc/newrelic-publisher.git"
   },
   "bugs": {
-    "url": "https://github.com/sandeep-testsigma/newrelic-publisher/issues"
+    "url": "https://github.com/TestsigmaInc/newrelic-publisher/issues"
   },
-  "homepage": "https://github.com/sandeep-testsigma/newrelic-publisher#readme",
+  "homepage": "https://github.com/TestsigmaInc/newrelic-publisher#readme",
   "devDependencies": {
     "@types/jest": "^29.5.0",
     "@types/node": "^20.19.4",
